@@ -143,6 +143,13 @@
             </list>
           </value>
         </entry>
+        <entry key="syncfusion_flutter_core">
+          <value>
+            <list>
+              <option value="$USER_HOME$/Documents/flutter/.pub-cache/git/syncfusion_flutter_core-b079be01ec99fdb64f9d0731b1037efb52f8fad2/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="term_glyph">
           <value>
             <list>
@@ -174,6 +181,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/Documents/flutter/.pub-cache/git/syncfusion_flutter_core-b079be01ec99fdb64f9d0731b1037efb52f8fad2/lib" />
       <root url="file://$USER_HOME$/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
       <root url="file://$USER_HOME$/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
       <root url="file://$USER_HOME$/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.0/lib" />
