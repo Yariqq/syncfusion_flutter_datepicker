@@ -138,9 +138,11 @@ packages:
   syncfusion_flutter_core:
     dependency: transitive
     description:
-      path: "../syncfusion_flutter_core"
-      relative: true
-    source: path
+      path: "."
+      ref: main
+      resolved-ref: b079be01ec99fdb64f9d0731b1037efb52f8fad2
+      url: "https://github.com/Yariqq/syncfusion_flutter_core.git"
+    source: git
     version: "20.1.47"
   syncfusion_flutter_datepicker:
     dependency: "direct main"
