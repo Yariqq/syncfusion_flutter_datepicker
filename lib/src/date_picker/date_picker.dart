@@ -13223,7 +13223,8 @@ String _getMonthHeaderText(
       }
     }
 
-    text = text.substring(0, 1).toUpperCase() + text.substring(1);
+    String dateWithComa = '${text.split(' ')[0]}, ${text.split(' ')[1]}';
+    text = dateWithComa.substring(0, 1).toUpperCase() + dateWithComa.substring(1);
 
     return text;
   }
